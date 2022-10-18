@@ -1,0 +1,14 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "guild": "YOUR_GUILD_ID",
+    "prefix": {
+        "log": "[LOG] ",
+        "error": "[ERROR] "
+    },
+    "errors": {
+        "start": "Bot couldn't start nor set it's status."
+    },
+    "success": {
+        "start": "Bot started and status set."
+    }
+}

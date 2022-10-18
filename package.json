@@ -1,0 +1,23 @@
+{
+  "name": "privateroomsdiscordbot",
+  "version": "1.0.0",
+  "description": "Create private temporary rooms in your Discord-server.",
+  "main": "App.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isakjensen/PrivateRoomsDiscordBot.git"
+  },
+  "author": "Isak Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isakjensen/PrivateRoomsDiscordBot/issues"
+  },
+  "homepage": "https://github.com/isakjensen/PrivateRoomsDiscordBot#readme"
+}
